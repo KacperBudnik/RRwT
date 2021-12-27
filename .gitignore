@@ -1,0 +1,6 @@
+*/.ipynb_checkpoints
+*.aux
+*.log
+*.gz
+*.synctex.gz
+.ipynb_checkpoints/*
